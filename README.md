@@ -1,3 +1,6 @@
+# THIS FORK
+Forked and added the medium article for backup purposes.
+
 # GraphQL Cursor Connections With Filter And Ordering
 
 The GraphQL Relay Cursor Connections specification illustrates how to implement Cursor Pagination in GraphQL. However, it does not describe how to implement more advanced query features like filtering and ordering. In this repository, I create an example server that implements the GraphQL Relay Cursor Connections with filtering and ordering.
